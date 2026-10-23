@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-23",
+  "unitTests": {
+    "passed": 83,
+    "failed": 0,
+    "log": "unit-tests.txt"
+  },
+  "syntaxChecks": "passed",
+  "productionBuild": "passed",
+  "browserRuns": {
+    "browser-full": {
+      "startTime": "2026-10-23T00:52:29.331Z",
+      "duration": 207633.02099999998,
+      "expected": 61,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "browser-optical-regression": {
+      "startTime": "2026-10-23T00:49:56.635Z",
+      "duration": 66136.33899999999,
+      "expected": 17,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "browser-svg-regression": {
+      "startTime": "2026-10-23T00:57:53.006Z",
+      "duration": 63529.045,
+      "expected": 24,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "browser-two-lens-boundary": {
+      "startTime": "2026-10-23T01:00:46.872Z",
+      "duration": 7663.447999999999,
+      "expected": 1,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "browser-mobile-final": {
+      "startTime": "2026-10-23T01:07:12.938Z",
+      "duration": 12137.703,
+      "expected": 1,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    }
+  },
+  "sourceSha256": {
+    "src/main.js": "7adaab3aafdb0085521e7529b23bac815c2d8cdd25ae49fe92f5042f92147c7d",
+    "src/model.js": "cc024c2fe302bc4eb46befec0da2dafd14e93422479cea25cebb6997990bdf53",
+    "src/physics.js": "0f55c179fe553c4fa517fdfad398dd03dac36329efb57a4024120dda85aec1cb",
+    "src/presentation.js": "a3e84e733edb6d62b0fb48e8100db0fde14bfbf607abe48850e4eceac7ae0cb1",
+    "src/render2d.js": "0dfa0b366e6401209ca5cda2caaa6d330e6d19696423c6b48872e5e2a73bc1a5",
+    "src/render3d.js": "909a43099a11afa0241faba3365277f63523b024dfd7953762315a1a9790242f",
+    "src/state.js": "6404ac239f2e58c8fde680577d27f6d31f508d395ce71c23a8420a74e595ac7e",
+    "src/styles.css": "80407b1701a94c6126c0af649235c7071a86cb159c37e52e1e79b5ac877db314"
+  }
+}

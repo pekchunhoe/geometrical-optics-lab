@@ -1,0 +1,5 @@
+
+> geometrical-optics-lab@1.0.0 check
+> node scripts/check.mjs
+
+JavaScript syntax and presentation label checks passed.

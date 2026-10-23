@@ -1,0 +1,90 @@
+[
+  {
+    "path": "src/main.js",
+    "sha256": "cd23b0bc36648a8eab30775aab0c778a50d08181daf84dd4e35689777b47a532"
+  },
+  {
+    "path": "src/model.js",
+    "sha256": "227bfee735001c2dc1d635cf29cdbc58d81ae460dea5a9c73036d412f67a7abb"
+  },
+  {
+    "path": "src/physics.js",
+    "sha256": "514c54bf4b20aceec3a9204d7885b34c7a204cc5857ec5c801409d1ec9f1e8d8"
+  },
+  {
+    "path": "src/presentation.js",
+    "sha256": "5838b28fc001927d6b1b86e9e1995cb981bcf1709c82bae5747e7ad21d28e40f"
+  },
+  {
+    "path": "src/render2d.js",
+    "sha256": "8afe09a5974ec0e744b2f6aef7ea02dc779b30941a2b363169c8c4998e08f343"
+  },
+  {
+    "path": "src/render3d.js",
+    "sha256": "a376f49532ccdf2dac487bc5767c1c56051d8b034d80ea8b264d67784cf4670f"
+  },
+  {
+    "path": "src/state.js",
+    "sha256": "76b23b4a901524a0ea87d5cc6acfdb11b82262887f5c1932cdaf3cfb4e887b3c"
+  },
+  {
+    "path": "src/styles.css",
+    "sha256": "8857736ca45babf2b7d30e875997fce0be20260882f07188a1af6a33712020ca"
+  },
+  {
+    "path": "scripts/audit-numerics.mjs",
+    "sha256": "1a60e6dbf6e68b05123556d4406897484fd49cd3afc740617349b95897966f7c"
+  },
+  {
+    "path": "scripts/audit-static-server.mjs",
+    "sha256": "28f191daf4ba7e933553c06dc78a94d4cb282ec7ed840052f9e4b0f3f53692d0"
+  },
+  {
+    "path": "scripts/check.mjs",
+    "sha256": "1ad081f9975125057dff95267ef9ac8aed1980b82b93341ad893513aa81684b7"
+  },
+  {
+    "path": "tests/audit-physics.test.js",
+    "sha256": "4dfc30aaba4dc1f6e2ec0e2cc163a14d166d2b7fd30a62948fba0156133fccb8"
+  },
+  {
+    "path": "tests/physics.test.js",
+    "sha256": "e6be436970b283e2a68fdb4534f5f7de4208dd33795116796279f18c7968c012"
+  },
+  {
+    "path": "tests/presentation.test.js",
+    "sha256": "27a58267084a659a0e158c3b05cabbe6d409152ffcaaf7ac4a790ffe8b7c6cde"
+  },
+  {
+    "path": "tests/browser/audit-evidence.spec.js",
+    "sha256": "ac28925a1b5dbb5897b1200b1ceb69c09102c4efa438ab24a32167023c21e571"
+  },
+  {
+    "path": "tests/browser/audit.spec.js",
+    "sha256": "ec51aa5d5dea0c5648938049e85282060c0f1a48be4845740cde2c924813d64b"
+  },
+  {
+    "path": "tests/browser/lab.spec.js",
+    "sha256": "2be3fa2b62a7b37de4c321fd23c1ac8b50ef0122953c2b04068041268f404e57"
+  },
+  {
+    "path": "package.json",
+    "sha256": "9295d857dfd54e95f42e0624e5debc0aaf74bd2c0eac58f04425247ace0d789a"
+  },
+  {
+    "path": "package-lock.json",
+    "sha256": "f859fadc9b9f3c5e4df420adfb77fb60855e64bfeb1eaf46b8a6bee0e85d78a2"
+  },
+  {
+    "path": "vite.config.js",
+    "sha256": "4db304494fd6c20a3517183d6ab2707a774b946ce6bcc59029676ca559fdd7f8"
+  },
+  {
+    "path": "playwright.config.js",
+    "sha256": "2965a781448199da5eb7c21595b4181f7d4939cac543e3164d84cd43bacfc992"
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "93855687bb3333b90c9a74c6b26d54245c4b2f1032ac7f5a5f62036f5b38bb67"
+  }
+]

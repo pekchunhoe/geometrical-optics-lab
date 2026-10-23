@@ -1,0 +1,27 @@
+node : [WebServer] (node:26488) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+At line:10 char:303
++ ... CODE -eq 0){node node_modules/@playwright/test/cli.js test --grep 're ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([WebServer] (no... env being set.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] (node:17320) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] (node:7988) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 8 tests using 1 worker
+
+(node:2304) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ok 1 tests\browser\audit-evidence.spec.js:28:1 › audit evidence: refraction, TIR, all advanced experiments and actual 3D views (24.3s)
+  ok 2 tests\browser\audit-evidence.spec.js:57:1 › audit: actual 3D object, lens and screen drags preserve independent bench positions (18.2s)
+  ok 3 tests\browser\lab.spec.js:17:1 › mode switching preserves parameters and computed results in each lab (6.4s)
+  ok 4 tests\browser\lab.spec.js:29:115 › lens experiment · two · 2d · dark (2.8s)
+  ok 5 tests\browser\lab.spec.js:29:115 › lens experiment · two · 2d · light (3.7s)
+  ok 6 tests\browser\lab.spec.js:29:115 › lens experiment · two · 3d · dark (3.1s)
+  ok 7 tests\browser\lab.spec.js:29:115 › lens experiment · two · 3d · light (3.9s)
+  ok 8 tests\browser\lab.spec.js:39:1 › two-lens system handles a virtual intermediate object and collimated stages (2.3s)
+
+  8 passed (1.2m)

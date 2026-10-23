@@ -1,0 +1,295 @@
+{
+  "browser": "155.0.4283.62",
+  "viewport": {
+    "width": 1366,
+    "height": 768
+  },
+  "rendering": "Headless Edge, SwiftShader software WebGL; timings include two animation frames or synchronous GPU completion, not hardware FPS.",
+  "navigation": {
+    "name": "http://127.0.0.1:4173/",
+    "entryType": "navigation",
+    "startTime": 0,
+    "duration": 445.7000000476837,
+    "navigationId": 9195,
+    "initiatorType": "navigation",
+    "deliveryType": "",
+    "nextHopProtocol": "http/1.1",
+    "renderBlockingStatus": "non-blocking",
+    "contentType": "text/html",
+    "contentEncoding": "",
+    "workerStart": 0,
+    "workerRouterEvaluationStart": 0,
+    "workerCacheLookupStart": 0,
+    "workerMatchedSourceType": "",
+    "workerFinalSourceType": "",
+    "redirectStart": 0,
+    "redirectEnd": 0,
+    "fetchStart": 2.3000000715255737,
+    "domainLookupStart": 2.3000000715255737,
+    "domainLookupEnd": 2.3000000715255737,
+    "connectStart": 2.3000000715255737,
+    "secureConnectionStart": 0,
+    "connectEnd": 2.3000000715255737,
+    "requestStart": 4.5,
+    "responseStart": 14.300000071525574,
+    "firstInterimResponseStart": 0,
+    "finalResponseHeadersStart": 14.300000071525574,
+    "responseEnd": 15.100000023841858,
+    "transferSize": 1301,
+    "encodedBodySize": 1001,
+    "decodedBodySize": 1001,
+    "responseStatus": 200,
+    "serverTiming": [],
+    "unloadEventStart": 0,
+    "unloadEventEnd": 0,
+    "domInteractive": 35.60000002384186,
+    "domContentLoadedEventStart": 396.8000000715256,
+    "domContentLoadedEventEnd": 397,
+    "domComplete": 445.7000000476837,
+    "loadEventStart": 445.7000000476837,
+    "loadEventEnd": 445.7000000476837,
+    "type": "navigate",
+    "redirectCount": 0,
+    "activationStart": 0,
+    "criticalCHRestart": 0,
+    "notRestoredReasons": null,
+    "confidence": {
+      "randomizedTriggerRate": 0.4994798,
+      "value": "low"
+    }
+  },
+  "timings": {
+    "2d": [
+      93.30000007152557,
+      55.799999952316284,
+      137.5,
+      139.5,
+      153.69999992847443,
+      148.30000007152557,
+      150.89999997615814,
+      147.20000004768372,
+      142,
+      143.19999992847443,
+      145.80000007152557,
+      145.89999997615814,
+      149.60000002384186,
+      141.79999995231628,
+      136.39999997615814,
+      142.60000002384186,
+      144.60000002384186,
+      294.1999999284744,
+      137.70000004768372,
+      146.39999997615814
+    ],
+    "3d": [
+      803.2999999523163,
+      498.5,
+      491.2000000476837,
+      421.89999997615814,
+      445.60000002384186,
+      450.39999997615814,
+      430.2000000476837,
+      448.7999999523163,
+      405.10000002384186,
+      579,
+      497.10000002384186,
+      400.5,
+      362,
+      541.5999999046326,
+      387.90000009536743,
+      339.89999997615814,
+      346.1999999284744,
+      327.60000002384186,
+      328.5,
+      319.89999997615814
+    ]
+  },
+  "before": {
+    "JSEventListeners": 39,
+    "Nodes": 2248,
+    "JSHeapUsedSize": 6588128
+  },
+  "after": {
+    "JSEventListeners": 39,
+    "Nodes": 2249,
+    "JSHeapUsedSize": 7226964
+  },
+  "resource": {
+    "times": [
+      343.5,
+      193,
+      196.5,
+      195.29999995231628,
+      176.39999997615814,
+      234.10000002384186,
+      314.89999997615814,
+      316,
+      392.3000000715256,
+      325.1999999284744,
+      299.7000000476837,
+      315.39999997615814,
+      1045,
+      144.89999997615814,
+      166.70000004768372,
+      188.5,
+      218.5,
+      228.5,
+      411.39999997615814,
+      410.60000002384186,
+      341.2999999523163,
+      286.89999997615814,
+      292.7000000476837,
+      310.39999997615814,
+      341.7000000476837
+    ],
+    "memory": [
+      {
+        "geometries": 338,
+        "textures": 7
+      },
+      {
+        "geometries": 338,
+        "textures": 7
+      },
+      {
+        "geometries": 338,
+        "textures": 7
+      },
+      {
+        "geometries": 334,
+        "textures": 7
+      },
+      {
+        "geometries": 334,
+        "textures": 7
+      },
+      {
+        "geometries": 334,
+        "textures": 7
+      },
+      {
+        "geometries": 334,
+        "textures": 7
+      },
+      {
+        "geometries": 330,
+        "textures": 7
+      },
+      {
+        "geometries": 330,
+        "textures": 7
+      },
+      {
+        "geometries": 330,
+        "textures": 7
+      },
+      {
+        "geometries": 330,
+        "textures": 7
+      },
+      {
+        "geometries": 330,
+        "textures": 7
+      },
+      {
+        "geometries": 330,
+        "textures": 7
+      },
+      {
+        "geometries": 326,
+        "textures": 7
+      },
+      {
+        "geometries": 326,
+        "textures": 7
+      },
+      {
+        "geometries": 326,
+        "textures": 7
+      },
+      {
+        "geometries": 326,
+        "textures": 7
+      },
+      {
+        "geometries": 326,
+        "textures": 7
+      },
+      {
+        "geometries": 326,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      }
+    ],
+    "steadyMemory": [
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      },
+      {
+        "geometries": 322,
+        "textures": 7
+      }
+    ],
+    "disposed": {
+      "geometries": 0,
+      "textures": 0
+    },
+    "rendered": 338
+  }
+}

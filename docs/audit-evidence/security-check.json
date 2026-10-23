@@ -1,0 +1,7 @@
+{
+  "scope": "Project text/config files excluding generated/dependency/audit evidence directories; filenames and recognizable private-key/token patterns only",
+  "suspiciousFilenames": [],
+  "patternMatchedFilenames": [],
+  "git": "Unavailable: no Git repository; tracked/staged/history secrets cannot be checked",
+  "contentsPrinted": false
+}

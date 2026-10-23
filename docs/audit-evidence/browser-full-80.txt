@@ -1,0 +1,184 @@
+
+> geometrical-optics-lab@1.0.0 test:browser
+> npm run build && playwright test
+
+
+> geometrical-optics-lab@1.0.0 build
+> vite build
+
+vite v7.3.7 building client environment for production...
+transforming...
+✓ 15 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                         1.00 kB │ gzip:   0.50 kB
+dist/assets/KaTeX_Size3-Regular-CTq5MqoE.woff           4.42 kB
+dist/assets/KaTeX_Size4-Regular-Dl5lxZxV.woff2          4.93 kB
+dist/assets/KaTeX_Size2-Regular-Dy4dx90m.woff2          5.21 kB
+dist/assets/KaTeX_Size1-Regular-mCD8mA8B.woff2          5.47 kB
+dist/assets/KaTeX_Size4-Regular-BF-4gkZK.woff           5.98 kB
+dist/assets/KaTeX_Size2-Regular-oD1tc_U0.woff           6.19 kB
+dist/assets/KaTeX_Size1-Regular-C195tn64.woff           6.50 kB
+dist/assets/KaTeX_Caligraphic-Regular-Di6jR-x-.woff2    6.91 kB
+dist/assets/KaTeX_Caligraphic-Bold-Dq_IR9rO.woff2       6.91 kB
+dist/assets/KaTeX_Size3-Regular-DgpXs0kz.ttf            7.59 kB
+dist/assets/KaTeX_Caligraphic-Regular-CTRA-rTL.woff     7.66 kB
+dist/assets/KaTeX_Caligraphic-Bold-BEiXGLvX.woff        7.72 kB
+dist/assets/KaTeX_Script-Regular-D3wIWfF6.woff2         9.64 kB
+dist/assets/KaTeX_SansSerif-Regular-DDBCnlJ7.woff2     10.34 kB
+dist/assets/KaTeX_Size4-Regular-DWFBv043.ttf           10.36 kB
+dist/assets/KaTeX_Script-Regular-D5yQViql.woff         10.59 kB
+dist/assets/KaTeX_Fraktur-Regular-CTYiF6lA.woff2       11.32 kB
+dist/assets/KaTeX_Fraktur-Bold-CL6g_b3V.woff2          11.35 kB
+dist/assets/KaTeX_Size2-Regular-B7gKUWhC.ttf           11.51 kB
+dist/assets/KaTeX_SansSerif-Italic-C3H0VqGB.woff2      12.03 kB
+dist/assets/KaTeX_SansSerif-Bold-D1sUS0GD.woff2        12.22 kB
+dist/assets/KaTeX_Size1-Regular-Dbsnue_I.ttf           12.23 kB
+dist/assets/KaTeX_SansSerif-Regular-CS6fqUqJ.woff      12.32 kB
+dist/assets/KaTeX_Caligraphic-Regular-wX97UBjC.ttf     12.34 kB
+dist/assets/KaTeX_Caligraphic-Bold-ATXxdsX0.ttf        12.37 kB
+dist/assets/KaTeX_Fraktur-Regular-Dxdc4cR9.woff        13.21 kB
+dist/assets/KaTeX_Fraktur-Bold-BsDP51OF.woff           13.30 kB
+dist/assets/KaTeX_Typewriter-Regular-CO6r4hn1.woff2    13.57 kB
+dist/assets/KaTeX_SansSerif-Italic-DN2j7dab.woff       14.11 kB
+dist/assets/KaTeX_SansSerif-Bold-DbIhKOiC.woff         14.41 kB
+dist/assets/KaTeX_Typewriter-Regular-C0xS9mPB.woff     16.03 kB
+dist/assets/KaTeX_Math-BoldItalic-CZnvNsCZ.woff2       16.40 kB
+dist/assets/KaTeX_Math-Italic-t53AETM-.woff2           16.44 kB
+dist/assets/KaTeX_Script-Regular-C5JkGWo-.ttf          16.65 kB
+dist/assets/KaTeX_Main-BoldItalic-DxDJ3AOS.woff2       16.78 kB
+dist/assets/KaTeX_Main-Italic-NWA7e6Wa.woff2           16.99 kB
+dist/assets/KaTeX_Math-BoldItalic-iY-2wyZ7.woff        18.67 kB
+dist/assets/KaTeX_Math-Italic-DA0__PXp.woff            18.75 kB
+dist/assets/KaTeX_Main-BoldItalic-SpSLRI95.woff        19.41 kB
+dist/assets/KaTeX_SansSerif-Regular-BNo7hRIc.ttf       19.44 kB
+dist/assets/KaTeX_Fraktur-Regular-CB_wures.ttf         19.57 kB
+dist/assets/KaTeX_Fraktur-Bold-BdnERNNW.ttf            19.58 kB
+dist/assets/KaTeX_Main-Italic-BMLOBm91.woff            19.68 kB
+dist/assets/KaTeX_SansSerif-Italic-YYjJ1zSn.ttf        22.36 kB
+dist/assets/KaTeX_SansSerif-Bold-CFMepnvq.ttf          24.50 kB
+dist/assets/KaTeX_Main-Bold-Cx986IdX.woff2             25.32 kB
+dist/assets/KaTeX_Main-Regular-B22Nviop.woff2          26.27 kB
+dist/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf      27.56 kB
+dist/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2           28.08 kB
+dist/assets/KaTeX_Main-Bold-Jm3AIy58.woff              29.91 kB
+dist/assets/KaTeX_Main-Regular-Dr94JaBh.woff           30.77 kB
+dist/assets/KaTeX_Math-BoldItalic-B3XSjfu4.ttf         31.20 kB
+dist/assets/KaTeX_Math-Italic-flOr_0UB.ttf             31.31 kB
+dist/assets/KaTeX_Main-BoldItalic-DzxPMmG6.ttf         32.97 kB
+dist/assets/KaTeX_AMS-Regular-DMm9YOAa.woff            33.52 kB
+dist/assets/KaTeX_Main-Italic-3WenGoN9.ttf             33.58 kB
+dist/assets/KaTeX_Main-Bold-waoOVXN0.ttf               51.34 kB
+dist/assets/KaTeX_Main-Regular-ypZvNtVU.ttf            53.58 kB
+dist/assets/KaTeX_AMS-Regular-DRggAlZN.ttf             63.63 kB
+dist/assets/mathematics-DLVrwanO.css                   28.93 kB │ gzip:   8.04 kB
+dist/assets/index-DzSlU0op.css                         32.46 kB │ gzip:   7.40 kB
+dist/assets/index-GDTQsi7S.js                          76.20 kB │ gzip:  27.03 kB
+dist/assets/mathematics-CLJZUTUL.js                   261.06 kB │ gzip:  77.49 kB
+dist/assets/optical-graphics-D_z--Nfl.js              514.33 kB │ gzip: 128.45 kB
+npm.cmd : 
+At line:2 char:554
++ ... cs-run.txt; npm.cmd run test:browser *> tmp/audit/final/browser-run.t ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: 
+https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 2.11s
+[WebServer] (node:12240) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] (node:13148) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] (node:24940) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 80 tests using 1 worker
+
+(node:11344) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ok  1 tests\browser\audit-evidence.spec.js:9:39 › audit evidence: mirrors numerical references and actual SVG intersections (11.8s)
+  ok  2 tests\browser\audit-evidence.spec.js:9:39 › audit evidence: lenses numerical references and actual SVG intersections (8.9s)
+  ok  3 tests\browser\audit-evidence.spec.js:28:1 › audit evidence: refraction, TIR, all advanced experiments and actual 3D views (23.1s)
+  ok  4 tests\browser\audit-evidence.spec.js:34:140 › audit evidence: responsive laptop, equations, keyboard and reduced motion (3.2s)
+  ok  5 tests\browser\audit-evidence.spec.js:34:140 › audit evidence: responsive tablet-landscape, equations, keyboard and reduced motion (3.2s)
+  ok  6 tests\browser\audit-evidence.spec.js:34:140 › audit evidence: responsive phone-landscape, equations, keyboard and reduced motion (2.9s)
+  ok  7 tests\browser\audit-evidence.spec.js:34:140 › audit evidence: responsive phone-portrait, equations, keyboard and reduced motion (2.0s)
+  ok  8 tests\browser\audit-evidence.spec.js:37:1 › audit: current-state predictions, trial retention and complete view round trips (13.5s)
+  ok  9 tests\browser\audit-evidence.spec.js:41:1 › audit: real touch gestures move the object and WebGL failure falls back to 2D (3.0s)
+  ok 10 tests\browser\audit-evidence.spec.js:46:1 › audit: batched 3D segments preserve endpoints and normals on clipped rays (1.6s)
+  ok 11 tests\browser\audit-evidence.spec.js:57:1 › audit measurements: rendering latency, bounded GPU resources, repeated view lifecycle (43.2s)
+  ok 12 tests\browser\audit.spec.js:7:1 › audit: numeric commit and dynamic bounds agree with the actual optical state (2.3s)
+  ok 13 tests\browser\audit.spec.js:8:1 › audit: normal explorer keyboard uses its selected surface point (1.2s)
+  ok 14 tests\browser\audit.spec.js:9:1 › audit: shape selector identifies manually edited radii (2.2s)
+  ok 15 tests\browser\audit.spec.js:10:1 › audit: projected screen image height follows geometric magnification (2.7s)
+  ok 16 tests\browser\audit.spec.js:11:1 › audit: focal lens dragging moves the lens while fixed apparatus stays fixed (4.1s)
+  ok 17 tests\browser\audit.spec.js:12:1 › audit: physical focal apparatus uses absolute bench positions in 3D (1.8s)
+  ok 18 tests\browser\audit.spec.js:13:1 › audit: actual exported CSV matches table units and independently calculated trials (3.4s)
+  ok 19 tests\browser\audit.spec.js:14:1 › audit: static production assets work under a GitHub Pages repository prefix (1.5s)
+  ok 20 tests\browser\lab.spec.js:10:139 › desktop · mirrors · dark · 2d (3.5s)
+  ok 21 tests\browser\lab.spec.js:10:139 › desktop · mirrors · dark · 3d (2.8s)
+  ok 22 tests\browser\lab.spec.js:10:139 › desktop · mirrors · light · 2d (3.7s)
+  ok 23 tests\browser\lab.spec.js:10:139 › desktop · mirrors · light · 3d (3.8s)
+  ok 24 tests\browser\lab.spec.js:10:139 › desktop · refraction · dark · 2d (3.7s)
+  ok 25 tests\browser\lab.spec.js:10:139 › desktop · refraction · dark · 3d (4.8s)
+  ok 26 tests\browser\lab.spec.js:10:139 › desktop · refraction · light · 2d (3.7s)
+  ok 27 tests\browser\lab.spec.js:10:139 › desktop · refraction · light · 3d (4.5s)
+  ok 28 tests\browser\lab.spec.js:10:139 › desktop · lenses · dark · 2d (3.8s)
+  ok 29 tests\browser\lab.spec.js:10:139 › desktop · lenses · dark · 3d (4.6s)
+  ok 30 tests\browser\lab.spec.js:10:139 › desktop · lenses · light · 2d (4.0s)
+  ok 31 tests\browser\lab.spec.js:10:139 › desktop · lenses · light · 3d (5.8s)
+  ok 32 tests\browser\lab.spec.js:10:139 › tablet · mirrors · dark · 2d (2.3s)
+  ok 33 tests\browser\lab.spec.js:10:139 › tablet · mirrors · dark · 3d (4.5s)
+  ok 34 tests\browser\lab.spec.js:10:139 › tablet · mirrors · light · 2d (3.8s)
+  ok 35 tests\browser\lab.spec.js:10:139 › tablet · mirrors · light · 3d (3.4s)
+  ok 36 tests\browser\lab.spec.js:10:139 › tablet · refraction · dark · 2d (2.2s)
+  ok 37 tests\browser\lab.spec.js:10:139 › tablet · refraction · dark · 3d (2.5s)
+  ok 38 tests\browser\lab.spec.js:10:139 › tablet · refraction · light · 2d (2.9s)
+  ok 39 tests\browser\lab.spec.js:10:139 › tablet · refraction · light · 3d (3.3s)
+  ok 40 tests\browser\lab.spec.js:10:139 › tablet · lenses · dark · 2d (2.3s)
+  ok 41 tests\browser\lab.spec.js:10:139 › tablet · lenses · dark · 3d (3.1s)
+  ok 42 tests\browser\lab.spec.js:10:139 › tablet · lenses · light · 2d (3.6s)
+  ok 43 tests\browser\lab.spec.js:10:139 › tablet · lenses · light · 3d (3.9s)
+  ok 44 tests\browser\lab.spec.js:10:139 › mobile · mirrors · dark · 2d (1.9s)
+  ok 45 tests\browser\lab.spec.js:10:139 › mobile · mirrors · dark · 3d (2.0s)
+  ok 46 tests\browser\lab.spec.js:10:139 › mobile · mirrors · light · 2d (1.6s)
+  ok 47 tests\browser\lab.spec.js:10:139 › mobile · mirrors · light · 3d (1.9s)
+  ok 48 tests\browser\lab.spec.js:10:139 › mobile · refraction · dark · 2d (1.5s)
+  ok 49 tests\browser\lab.spec.js:10:139 › mobile · refraction · dark · 3d (1.8s)
+  ok 50 tests\browser\lab.spec.js:10:139 › mobile · refraction · light · 2d (1.6s)
+  ok 51 tests\browser\lab.spec.js:10:139 › mobile · refraction · light · 3d (2.4s)
+  ok 52 tests\browser\lab.spec.js:10:139 › mobile · lenses · dark · 2d (1.5s)
+  ok 53 tests\browser\lab.spec.js:10:139 › mobile · lenses · dark · 3d (1.9s)
+  ok 54 tests\browser\lab.spec.js:10:139 › mobile · lenses · light · 2d (1.8s)
+  ok 55 tests\browser\lab.spec.js:10:139 › mobile · lenses · light · 3d (2.0s)
+  ok 56 tests\browser\lab.spec.js:17:1 › mode switching preserves parameters and computed results in each lab (8.1s)
+  ok 57 tests\browser\lab.spec.js:20:1 › mirror presets include infinity and virtual image with finite drawing coordinates (1.9s)
+  ok 58 tests\browser\lab.spec.js:23:1 › dragging the object changes actual object distance and magnification (2.8s)
+  ok 59 tests\browser\lab.spec.js:26:1 › normal explorer, equal indices, and total internal reflection (3.0s)
+  ok 60 tests\browser\lab.spec.js:29:115 › lens experiment · focal · 2d · dark (2.4s)
+  ok 61 tests\browser\lab.spec.js:29:115 › lens experiment · focal · 2d · light (3.0s)
+  ok 62 tests\browser\lab.spec.js:29:115 › lens experiment · focal · 3d · dark (4.1s)
+  ok 63 tests\browser\lab.spec.js:29:115 › lens experiment · focal · 3d · light (4.7s)
+  ok 64 tests\browser\lab.spec.js:29:115 › lens experiment · maker · 2d · dark (2.4s)
+  ok 65 tests\browser\lab.spec.js:29:115 › lens experiment · maker · 2d · light (3.1s)
+  ok 66 tests\browser\lab.spec.js:29:115 › lens experiment · maker · 3d · dark (2.8s)
+  ok 67 tests\browser\lab.spec.js:29:115 › lens experiment · maker · 3d · light (3.6s)
+  ok 68 tests\browser\lab.spec.js:29:115 › lens experiment · two · 2d · dark (2.2s)
+  ok 69 tests\browser\lab.spec.js:29:115 › lens experiment · two · 2d · light (3.0s)
+  ok 70 tests\browser\lab.spec.js:29:115 › lens experiment · two · 3d · dark (3.2s)
+  ok 71 tests\browser\lab.spec.js:29:115 › lens experiment · two · 3d · light (3.9s)
+  ok 72 tests\browser\lab.spec.js:32:1 › focal bench records, removes, averages, and exports measured trials (4.3s)
+  ok 73 tests\browser\lab.spec.js:35:1 › lens maker supports all six shapes, planar radii, and zero power (8.4s)
+  ok 74 tests\browser\lab.spec.js:39:1 › two-lens system handles a virtual intermediate object and collimated stages (2.6s)
+  ok 75 tests\browser\lab.spec.js:42:1 › display options, accessible prediction, and reset remain functional (3.5s)
+  ok 76 tests\browser\lab.spec.js:45:1 › 3D camera orbit, zoom, and reset produce distinct views (5.3s)
+  ok 77 tests\browser\lab.spec.js:48:1 › principal controls update live physics and invalid physical geometry is explained (6.9s)
+  ok 78 tests\browser\lab.spec.js:51:1 › keyboard manipulation changes object state and keeps diagram focus (1.2s)
+  ok 79 tests\browser\lab.spec.js:54:1 › advanced lens experiments stay usable on a narrow touch-sized screen (5.4s)
+  ok 80 tests\browser\lab.spec.js:57:1 › built application runs without requests to external services (4.1s)
+
+  80 passed (5.8m)
